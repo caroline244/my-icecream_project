@@ -1,4 +1,4 @@
 icecream
-- hazelnutt
+- hazelnut
 - chocolate
 - mango
